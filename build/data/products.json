@@ -1,0 +1,83 @@
+[
+    [{
+        "name": "Bottiglia",
+        "type":"Ravece",
+        "price": 10.0,
+        "image": "/ravece_thumb_small.jpeg",
+        "isHot":false,
+        "size":"0.2",
+        "stoks":10
+    },
+    {
+        "name": "Bottiglia",
+        "type":"Ravece",
+        "price": 11.5,
+        "image": "/ravece_thumb_medium.jpeg",
+        "isHot":true,
+        "size":"0.5",
+        "stoks":10
+    },
+    {
+        "name": "Latta",
+        "type":"Ravece",
+        "price": 13.0,
+        "image": "/ravece_thumb_small.jpeg",
+        "isHot":false,
+        "size":"5",
+        "stoks":0
+    }],[{
+        "name": "Bottiglia",
+        "type":"Leccino",
+        "price": 14.5,
+        "image": "/leccino_thumb_small.jpeg",
+        "isHot":true,
+        "size":"0.2",
+        "stoks":10
+    },
+    {
+        "name": "Bottiglia",
+        "type":"Leccino",
+        "price": 16.0,
+        "image": "/leccino_thumb_medium.jpeg",
+        "isHot":true,
+        "size":"0.5",
+        "stoks":0
+    },
+    {
+        "name": "Latta",
+        "type":"Leccino",
+        "price": 17.5,
+        "image": "/leccino_thumb_small.jpeg",
+        "isHot":false,
+        "size":"5",
+        "stoks":10
+    }],[
+        
+    {
+        "name": "Bottiglia",
+        "price": 19.0,
+        "image": "/multicultivar_thumb_small.jpeg",
+        "isHot":false,
+        "size":"0.2",
+        "stoks":0,
+        "type":"Multicultivar"
+    },
+    {
+        "name": "Bottiglia",
+        "price": 20.5,
+        "image": "/multicultivar_thumb_medium.jpeg",
+        "isHot":true,
+        "size":"0.5",
+        "stoks":10,
+        "type":"Multicultivar"
+    },
+    {
+        "name": "Latta",
+        "price": 22.0,
+        "image": "/multicultivar_thumb_small.jpeg",
+        "isHot":false,
+        "size":"5",
+        "stoks":10,
+        "type":"Multicultivar"
+    }]
+]
