@@ -33,9 +33,10 @@ jobs:
           #NEXT_PUBLIC_GOOGLE_VERIFICATION_CONTENT: ${{secrets.NEXT_PUBLIC_GOOGLE_VERIFICATION_CONTENT}}
       #- run: mv ./public/sitemap*.xml ./public/robots.txt ./out/
       - run: touch ./build/.nojekyll
-      
+
       - name: Deploy 🚀
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./build
+          publish_branch: gh-pages
