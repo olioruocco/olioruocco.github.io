@@ -34,14 +34,8 @@ jobs:
       #- run: mv ./public/sitemap*.xml ./public/robots.txt ./out/
       - run: touch ./build/.nojekyll
       
-      - name: Deploy to GitHub Pages
+      - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           github_token: ${{ secrets.TOKEN }}
-          branch: main  # Since it's a user/organization site, use 'main'
-          folder: ./build
-      #- name: Deploy 🚀
-      #  uses: peaceiris/actions-gh-pages@v3
-      #  with:
-      #    github_token: ${{ secrets.TOKEN }}
-      #    publish_dir: ./build
+          publish_dir: ./build
