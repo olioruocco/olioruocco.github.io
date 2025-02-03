@@ -39,7 +39,7 @@ jobs:
         with:
           github_token: ${{ secrets.TOKEN }}
           branch: main  # Since it's a user/organization site, use 'main'
-          folder: build
+          folder: ./build
       #- name: Deploy 🚀
       #  uses: peaceiris/actions-gh-pages@v3
       #  with:
