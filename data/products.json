@@ -26,7 +26,7 @@
         "image": "/ravece_thumb_small.jpeg",
         "isHot":false,
         "size":"5",
-        "stoks":0,
+        "stoks":10,
         "description":"Un olio extravergine di oliva di altissima qualità, ottenuto da olive raccolte a mano e spremute a freddo. Dal gusto equilibrato con note fruttate e un leggero sentore di mandorla, è perfetto per esaltare ogni piatto, dai condimenti a crudo alle ricette più raffinate. 100% italiano, puro e genuino."
     }],[{
         "name": "Bottiglia",
@@ -45,16 +45,6 @@
         "image": "/leccino_thumb_medium.jpeg",
         "isHot":true,
         "size":"0.5",
-        "stoks":0,
-        "description":"Un olio extravergine di oliva di altissima qualità, ottenuto da olive raccolte a mano e spremute a freddo. Dal gusto equilibrato con note fruttate e un leggero sentore di mandorla, è perfetto per esaltare ogni piatto, dai condimenti a crudo alle ricette più raffinate. 100% italiano, puro e genuino."
-    },
-    {
-        "name": "Latta",
-        "type":"Leccino",
-        "price": 17.5,
-        "image": "/leccino_thumb_small.jpeg",
-        "isHot":false,
-        "size":"5",
         "stoks":10,
         "description":"Un olio extravergine di oliva di altissima qualità, ottenuto da olive raccolte a mano e spremute a freddo. Dal gusto equilibrato con note fruttate e un leggero sentore di mandorla, è perfetto per esaltare ogni piatto, dai condimenti a crudo alle ricette più raffinate. 100% italiano, puro e genuino."
     }],[
@@ -65,7 +55,7 @@
         "image": "/multicultivar_thumb_small.jpeg",
         "isHot":false,
         "size":"0.2",
-        "stoks":0,
+        "stoks":10,
         "type":"Multicultivar",
         "description":"Un olio extravergine di oliva di altissima qualità, ottenuto da olive raccolte a mano e spremute a freddo. Dal gusto equilibrato con note fruttate e un leggero sentore di mandorla, è perfetto per esaltare ogni piatto, dai condimenti a crudo alle ricette più raffinate. 100% italiano, puro e genuino."
     },
