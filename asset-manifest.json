@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.8539f668.css",
-    "main.js": "/static/js/main.984e0fb3.js",
+    "main.css": "/static/css/main.e630ca00.css",
+    "main.js": "/static/js/main.b18ce0d8.js",
     "static/js/453.3ce60168.chunk.js": "/static/js/453.3ce60168.chunk.js",
-    "static/media/faq_bg.png": "/static/media/faq_bg.cc08a734c0471b0294f0.png",
-    "static/media/info_banner.png": "/static/media/info_banner.77225052fe5eb918ed19.png",
+    "static/media/faq_bg.webp": "/static/media/faq_bg.76ced978cd2f0b9aa4e9.webp",
+    "static/media/info_banner.webp": "/static/media/info_banner.3730c88776891f0f3889.webp",
     "static/media/TitilliumWeblight-r5ey.ttf": "/static/media/TitilliumWeblight-r5ey.b77f6f2cc4f3ff3f60eb.ttf",
     "index.html": "/index.html",
-    "main.8539f668.css.map": "/static/css/main.8539f668.css.map",
-    "main.984e0fb3.js.map": "/static/js/main.984e0fb3.js.map",
+    "main.e630ca00.css.map": "/static/css/main.e630ca00.css.map",
+    "main.b18ce0d8.js.map": "/static/js/main.b18ce0d8.js.map",
     "453.3ce60168.chunk.js.map": "/static/js/453.3ce60168.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8539f668.css",
-    "static/js/main.984e0fb3.js"
+    "static/css/main.e630ca00.css",
+    "static/js/main.b18ce0d8.js"
   ]
 }
